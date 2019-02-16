@@ -1,3 +1,0 @@
-# SCADLife
-
-To be updated
